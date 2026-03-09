@@ -3,6 +3,3 @@ __pycache__/
 *.pyc
 .venv/
 .ipynb_checkpoints/
-
-# Data (keep processed, ignore raw)
-data/raw/
