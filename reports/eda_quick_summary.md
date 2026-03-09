@@ -1,8 +1,8 @@
 # Quick EDA Summary
 
 Rows: 40
-Columns (after cleaning): 23
-- note: minus the TimeStamp & Interview Participation there are *21 survey questions*
+Columns (after processing): 24
+- note: minus the TimeStamp, Interview Participation, and participant_id, there are *21 survey questions*
 
 Top daily genres (multi-select parsed):
 - Pop: 26
